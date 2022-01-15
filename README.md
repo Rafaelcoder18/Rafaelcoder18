@@ -27,6 +27,5 @@
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafaelcoder18&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="joaoassalim" /></p><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rafaelcoder18&label=Profile%20views&color=00ff2a&style=flat" alt="Rafaelcoder18" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoassalim&theme=dark" alt="joaoassalim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaelcoder18&theme=dark" alt="joaoassalim" /></p>
