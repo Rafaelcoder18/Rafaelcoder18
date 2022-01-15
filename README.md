@@ -7,8 +7,8 @@
 
 :house_with_garden: From Brazil.
 
-<p> 2022 Goals: get a good programmer. </p>
-<p> 2022 Goals: get a winter job on Amazon or MIT.
+<p> 2022 Goals: be a good programmer
+<p> 2022 Goals: get a winter job on Amazon or MIT. 
 <p> 2022 Goals: get fluency in english.
 
 
