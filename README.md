@@ -7,9 +7,9 @@
 
 :house_with_garden: From Brazil.
 
-:outbox_tray: 2022 Goals: get a good programmer.
-:outbox_tray: 2022 Goals: get a winter job on Amazon or MIT.
-:outbox_tray: 2022 Goals: get fluency in english.
+<p> 2022 Goals: get a good programmer. </p>
+<p> 2022 Goals: get a winter job on Amazon or MIT.
+<p> 2022 Goals: get fluency in english.
 
 
 
