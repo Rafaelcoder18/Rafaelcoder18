@@ -1,7 +1,5 @@
 ## Hey there, I'm Rafael Prado!💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
-
  <div>
 <h3 align="left">About me:</h3>
  :computer: I'm becoming a programmer systems 👨🏻‍💻 | Analyst and Developer of system 🖥!
