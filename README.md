@@ -23,7 +23,7 @@
 
  
 <h3 align="left">Support:</h3>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'B0B87YVIH');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/B0B87YVIH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
   
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoassalim&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="joaoassalim" /></p><br><br>
 
