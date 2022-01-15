@@ -1,5 +1,6 @@
 ## Hey there, I'm Rafael Prado!💻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rafaelcoder18&label=Profile%20views&color=00ff2a&style=flat" alt="Rafaelcoder18" /> </p>
  <div>
 <h3 align="left">About me:</h3>
  :computer: I'm becoming a programmer systems 👨🏻‍💻 | Analyst and Developer of system 🖥!
@@ -22,8 +23,9 @@
  
 <h3 align="left">Support:</h3>
 <a href='https://ko-fi.com/B0B87YVIH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
-  
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoassalim&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="joaoassalim" /></p><br><br>
+ 
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoassalim&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="joaoassalim" /></p><br><br>
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoassalim&show_icons=true&&theme=dark&locale=en" alt="joaoassalim" /></p>
 
