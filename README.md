@@ -2,7 +2,7 @@
   
     • Sou aluno da FATEC de Ourinhos, São Paulo - Brasil.
     • Analista e desenvolvedor de sistemas em formação.
-    • 17 anos.
+    • 18 anos.
     • Estudante de Python.
     • conhecimento intermediário em C++.
   
