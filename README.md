@@ -8,6 +8,7 @@
   
   
   <h2> Hi there, i'm Rafael Prado! 🌎
+  <h3>
   <ul>
       <li> I'm student in FATEC Ourinhos, São Paulo - Brasil. 
       <li> I'm a Analyst and system developer in training. 
@@ -15,4 +16,4 @@
       <li> I'm a Python begineer student 
       <li> I'm intermediary student in C++ 
       <li> I'm a begineer in SQL and Database with python 
- 
+ <\h3>
