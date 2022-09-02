@@ -8,10 +8,11 @@
   
   
   <h2> Hi there, i'm Rafael Prado! 🌎 <\h2>
-  <li>
-      <ul> I'm student in FATEC Ourinhos, São Paulo - Brasil. <\ul>
-      <ul> I'm a Analyst and system developer in training. <\ul>
-      <ul> I'm eighteen <\ul>
-      <ul> I'm a Python begineer student <\ul>
-      <ul> I'm intermediary student in C++ <\ul>
-      <ul> I'm a begineer in SQL and Database with python <\ul>
+  <ul>
+      <li> I'm student in FATEC Ourinhos, São Paulo - Brasil. <\li>
+      <li> I'm a Analyst and system developer in training. <\li>
+      <li> I'm eighteen <\li>
+      <li> I'm a Python begineer student <\li>
+      <li> I'm intermediary student in C++ <\li>
+      <li> I'm a begineer in SQL and Database with python <\li>
+  <\ul>
