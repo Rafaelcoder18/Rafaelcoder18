@@ -10,7 +10,7 @@
   <h2> Hi there, i'm Rafael Prado! 🌎
   <h3>
   <ul>
-      <li> I'm student in FATEC Ourinhos, São Paulo - Brasil. 
+      <li> <h3>I'm student in FATEC Ourinhos, São Paulo - Brasil.<\h3> 
       <li> I'm a Analyst and system developer in training. 
       <li> I'm eighteen 
       <li> I'm a Python begineer student 
