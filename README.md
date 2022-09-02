@@ -7,12 +7,12 @@
     • conhecimento intermediário em C++.
   
   
-  <h2> Hi there, i'm Rafael Prado! 🌎 <\h2>
+  <h2> Hi there, i'm Rafael Prado! 🌎
   <ul>
-      <li> I'm student in FATEC Ourinhos, São Paulo - Brasil. <\li>
-      <li> I'm a Analyst and system developer in training. <\li>
-      <li> I'm eighteen <\li>
-      <li> I'm a Python begineer student <\li>
-      <li> I'm intermediary student in C++ <\li>
-      <li> I'm a begineer in SQL and Database with python <\li>
-  <\ul>
+      <li> I'm student in FATEC Ourinhos, São Paulo - Brasil. 
+      <li> I'm a Analyst and system developer in training. 
+      <li> I'm eighteen 
+      <li> I'm a Python begineer student 
+      <li> I'm intermediary student in C++ 
+      <li> I'm a begineer in SQL and Database with python 
+ 
