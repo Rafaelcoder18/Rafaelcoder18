@@ -4,16 +4,14 @@
     • Analista e desenvolvedor de sistemas em formação.
     • 18 anos.
     • Estudante de Python.
-    • conhecimento intermediário em C++.
+    • Estudante de C++.
+    • Estudante de SQL.
   
+  <h2> Hi there, i'm Rafael Prado! 🌎 <\h2>
   
-  <h2> Hi there, i'm Rafael Prado! 🌎
-  <h3>
-  <ul>
-      <li> <h3>I'm student in FATEC Ourinhos, São Paulo - Brasil.<\h3> 
-      <li> I'm a Analyst and system developer in training. 
-      <li> I'm eighteen 
-      <li> I'm a Python begineer student 
-      <li> I'm intermediary student in C++ 
-      <li> I'm a begineer in SQL and Database with python 
- <\h3>
+    • I'm a student in FATEC Ourinhos, São Paulo - Brazil.
+    • I'm a analyst and developer of systems in training.
+    • I'm 18.
+    • Python student.
+    • C++ student.
+    • SQL student.    
