@@ -7,6 +7,7 @@
 - Docker, Ansible, Terraform & Kubernetes.
   - Docker: Experiência apenas para estudo, com foco na especialização em DevOps, mas também na construção do TG, criando imagens e gerenciando containers.
   - Ansible & Terraform: Experiência apenas para estudo, com foco na especialização em DevOps, praticando no projeto para o TG.
+  - Kubernetes: Experiência apenas em estudo, com foco na especialização em DevOps, buscando melhorar as habilidades como analista na Engineering do Brasil, e também buscando criar um ambiente bem balanceado, com
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rafaelferreira17774) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafael_prado15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-prado-1418923r2e) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Rafael_Prado15) 
 
