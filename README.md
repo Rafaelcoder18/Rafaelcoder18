@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou aluno da FATEC de Ourinhos, São Paulo - Brasil.<br>💬 Analista e desenvolvedor de sistemas em formação.<br>⚡ 18 anos.<br>📚 Estudante de Python.<br>🤝 Estudante de C++.<br>📗 Estudante de SQL.
+🔭 Sou aluno da FATEC de Ourinhos, São Paulo - Brasil.<br>💬 Analista e desenvolvedor de sistemas em formação.<br>⚡ 18 anos.<br>📚 Dev Python.<br> Analista de TI na Engineering do Brasil.<br>
 
 
 ## 🌐 Socials:
