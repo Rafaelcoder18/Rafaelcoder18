@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔭 Sou aluno da FATEC de Ourinhos, São Paulo - Brasil.<br>💬 Analista e desenvolvedor de sistemas em formação.<br>⚡ 18 anos.<br>📚 Dev Python.<br>👨🏿‍💻
- Analista de TI na Engineering do Brasil.<br>
-
-
+# 💫 Sobre mim:
+## Operações
+- Linux, GCP & AWS
+  - Linux: Experiência em linux como analísta de TI na Engineering do Brasil. Buscando logs e validando problemas no ambiente de produção.
+  - GCP: Experiência com o ambiente de Cloud do Google na Engineering do Brasil. Buscando logs, pods e deployments no ambiente de produção.
+  - AWS: Experiência apenas de estudo, com o objetivo de me especializar em DevOps, buscando conhecer outros ambiêntes de nuvem além do GCP.
+- Docker, Ansible, Terraform & Kubernetes.
+  - Docker: Experiência apenas para estudo, com foco na especialização em DevOps, mas também na construção do TG, criando imagens e gerenciando containers.
+  - Ansible & Terraform: Experiência apenas para estudo, com foco na especialização em DevOps, praticando no projeto para o TG.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rafaelferreira17774) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafael_prado15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-prado-1418923r2e) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Rafael_Prado15) 
 
